@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pickle / model files (large binaries)
+*.pkl
+*.pth
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
